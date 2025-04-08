@@ -34,3 +34,8 @@ a{
         background-color: antiquewhite;
         text-align: center;
 } 
+
+img{
+    width: 18px;
+    height: 18px;
+}
